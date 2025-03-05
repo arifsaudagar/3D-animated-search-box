@@ -8,10 +8,10 @@ The **Advanced 3D Search Box** is a stylish and interactive search field built w
 - 📱 **Responsive design** for all screen sizes
 
 ## 🎥 Demo
-👉 **[Live Demo](#)** (Replace with GitHub Pages link if deployed)
+👉 **[Live Demo](#)**
 
 ## 🖼️ Preview
-![Advanced 3D Search Box]([https://photos.app.goo.gl/XShTdH88fdp13PZr5))
+![Advanced 3D Search Box](https://photos.app.goo.gl/XShTdH88fdp13PZr5)
 
 ## 🛠️ Technologies Used
 - **HTML5** - Structuring the search box
