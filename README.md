@@ -7,12 +7,6 @@ The **Advanced 3D Search Box** is a stylish and interactive search field built w
 - 🎭 **Hover, focus, and click interactions** for an immersive UI
 - 📱 **Responsive design** for all screen sizes
 
-## 🎥 Demo
-👉 **[Live Demo](#)**
-
-## 🖼️ Preview
-![Advanced 3D Search Box](https://photos.app.goo.gl/XShTdH88fdp13PZr5)
-
 ## 🛠️ Technologies Used
 - **HTML5** - Structuring the search box
 - **CSS3** - Styling & animations
@@ -20,7 +14,7 @@ The **Advanced 3D Search Box** is a stylish and interactive search field built w
 ## 📂 Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/arifsaudagar/Advanced-3D-Search-Box.git
+   git clone https://github.com/arifsaudagar/3D-animated-search-box.git
    ```
 2. Open `index.html` in your browser.
 
